@@ -8,7 +8,7 @@ Hey there! I'm Faraneh Yarahmadi — a full-stack developer and AI/Machine Learn
 
 ### 🔗 Connect with me:
 <p>
-<a href="https://instagram.com/your_username" target="_blank">
+<a href="https://instagram.com/faraneh.yar" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
